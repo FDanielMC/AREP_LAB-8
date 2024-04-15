@@ -94,8 +94,8 @@ Como se muestra, encontramos dos publicaciones, las cuales se han añadido al hi
   
 ## Autores
 
-* **[Daniel Fernando Moreno Cerón](https://github.com/FDanielMC)
+* **[Daniel Fernando Moreno Cerón](https://github.com/FDanielMC)**
 
-* **[Juan Felipe Vivas Manrique](https://github.com/JuanFe2001)
+* **[Juan Felipe Vivas Manrique](https://github.com/JuanFe2001)**
 
-* **[Sergio Daniel López Vargas](https://github.com/sergiolopezzl)
+* **[Sergio Daniel López Vargas](https://github.com/sergiolopezzl)**
